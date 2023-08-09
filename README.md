@@ -53,4 +53,4 @@ My Projects
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richardsamuel97&show_icons=true&locale=en" alt="richardsamuel97" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richardsamuel97&" alt="richardsamuel97" /></p>
+
