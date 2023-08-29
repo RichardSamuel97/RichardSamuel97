@@ -19,6 +19,14 @@ My Projects
 
 ● Obtained an RMSE of 7170 on the test dataset, after experimenting with hyperparameters tuning
 
+**Exploratory-Data-Analysis-on-Used-cars-from-Craigslist:** [Link](https://jovian.com/richardsamuelvincentpaul/exploratory-data-analysis)]
+
+● Cleaned & analyzed data around 50K rows with 26 columns for our used car analysis using Pandas
+
+● Created visualizations (scatter plots, pie charts, Sunburst etc.) using Seaborn, matplotlib & Plotly
+
+● Ford, Chevrolet & Toyota brands have most listings in market and SUV & Sedan cars with most listings
+
 **Web Scraping Top 300 Movies from Rotten Tomatoes:** [Link](https://jovian.com/richardsamuelvincentpaul/web-scraping-project-top300-movies)
 
 ● Scraped ‘Rotten Tomatoes’ website with the help of requests, BeautifulSoup libraries of Python
