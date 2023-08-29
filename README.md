@@ -19,7 +19,7 @@ My Projects
 
 ● Obtained an RMSE of 7170 on the test dataset, after experimenting with hyperparameters tuning
 
-**Exploratory-Data-Analysis-on-Used-cars-from-Craigslist:** [Link](https://jovian.com/richardsamuelvincentpaul/exploratory-data-analysis)]
+**Exploratory-Data-Analysis-on-Used-cars-from-Craigslist:** [Link](https://jovian.com/richardsamuelvincentpaul/exploratory-data-analysis)
 
 ● Cleaned & analyzed data around 50K rows with 26 columns for our used car analysis using Pandas
 
