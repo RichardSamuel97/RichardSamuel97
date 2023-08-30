@@ -9,7 +9,7 @@ Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine 
 
 Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Tableau)
 
-My Projects
+***My Projects:****
 
 **Price Prediction on Used Car Using Machine Learning:** [Link](https://jovian.com/richardsamuelvincentpaul/price-prediction-on-used-car-using-machine-learning)
 
